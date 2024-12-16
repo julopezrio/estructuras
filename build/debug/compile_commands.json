@@ -1,0 +1,44 @@
+[
+{
+  "directory": "D:/Users/oedav/Desktop/septimo semestre/Estructuras compt/codigos hasta ahora/09_leds_sec-1/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -I\"D:/Users/oedav/Desktop/septimo semestre/Estructuras compt/codigos hasta ahora/09_leds_sec-1/Core/Inc\" -I\"D:/Users/oedav/Desktop/septimo semestre/Estructuras compt/codigos hasta ahora/09_leds_sec-1/Drivers/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\09_leds_sec-1.dir\\Core\\Src\\main_backup_led.c.obj -c \"D:\\Users\\oedav\\Desktop\\septimo semestre\\Estructuras compt\\codigos hasta ahora\\09_leds_sec-1\\Core\\Src\\main_backup_led.c\"",
+  "file": "D:\\Users\\oedav\\Desktop\\septimo semestre\\Estructuras compt\\codigos hasta ahora\\09_leds_sec-1\\Core\\Src\\main_backup_led.c",
+  "output": "CMakeFiles\\09_leds_sec-1.dir\\Core\\Src\\main_backup_led.c.obj"
+},
+{
+  "directory": "D:/Users/oedav/Desktop/septimo semestre/Estructuras compt/codigos hasta ahora/09_leds_sec-1/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -I\"D:/Users/oedav/Desktop/septimo semestre/Estructuras compt/codigos hasta ahora/09_leds_sec-1/Core/Inc\" -I\"D:/Users/oedav/Desktop/septimo semestre/Estructuras compt/codigos hasta ahora/09_leds_sec-1/Drivers/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\09_leds_sec-1.dir\\Core\\Src\\syscall.c.obj -c \"D:\\Users\\oedav\\Desktop\\septimo semestre\\Estructuras compt\\codigos hasta ahora\\09_leds_sec-1\\Core\\Src\\syscall.c\"",
+  "file": "D:\\Users\\oedav\\Desktop\\septimo semestre\\Estructuras compt\\codigos hasta ahora\\09_leds_sec-1\\Core\\Src\\syscall.c",
+  "output": "CMakeFiles\\09_leds_sec-1.dir\\Core\\Src\\syscall.c.obj"
+},
+{
+  "directory": "D:/Users/oedav/Desktop/septimo semestre/Estructuras compt/codigos hasta ahora/09_leds_sec-1/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -I\"D:/Users/oedav/Desktop/septimo semestre/Estructuras compt/codigos hasta ahora/09_leds_sec-1/Core/Inc\" -I\"D:/Users/oedav/Desktop/septimo semestre/Estructuras compt/codigos hasta ahora/09_leds_sec-1/Drivers/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\09_leds_sec-1.dir\\Core\\Src\\sysmem.c.obj -c \"D:\\Users\\oedav\\Desktop\\septimo semestre\\Estructuras compt\\codigos hasta ahora\\09_leds_sec-1\\Core\\Src\\sysmem.c\"",
+  "file": "D:\\Users\\oedav\\Desktop\\septimo semestre\\Estructuras compt\\codigos hasta ahora\\09_leds_sec-1\\Core\\Src\\sysmem.c",
+  "output": "CMakeFiles\\09_leds_sec-1.dir\\Core\\Src\\sysmem.c.obj"
+},
+{
+  "directory": "D:/Users/oedav/Desktop/septimo semestre/Estructuras compt/codigos hasta ahora/09_leds_sec-1/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -I\"D:/Users/oedav/Desktop/septimo semestre/Estructuras compt/codigos hasta ahora/09_leds_sec-1\" -g -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -x assembler-with-cpp -MMD -MP -Og -g3 -ggdb -o CMakeFiles\\09_leds_sec-1.dir\\Startup\\startup_stm32l476rgtx.s.obj -c \"D:\\Users\\oedav\\Desktop\\septimo semestre\\Estructuras compt\\codigos hasta ahora\\09_leds_sec-1\\Startup\\startup_stm32l476rgtx.s\"",
+  "file": "D:\\Users\\oedav\\Desktop\\septimo semestre\\Estructuras compt\\codigos hasta ahora\\09_leds_sec-1\\Startup\\startup_stm32l476rgtx.s",
+  "output": "CMakeFiles\\09_leds_sec-1.dir\\Startup\\startup_stm32l476rgtx.s.obj"
+},
+{
+  "directory": "D:/Users/oedav/Desktop/septimo semestre/Estructuras compt/codigos hasta ahora/09_leds_sec-1/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -I\"D:/Users/oedav/Desktop/septimo semestre/Estructuras compt/codigos hasta ahora/09_leds_sec-1/Core/Inc\" -I\"D:/Users/oedav/Desktop/septimo semestre/Estructuras compt/codigos hasta ahora/09_leds_sec-1/Drivers/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\09_leds_sec-1.dir\\Drivers\\Src\\stm32l4xx_my_rcc.c.obj -c \"D:\\Users\\oedav\\Desktop\\septimo semestre\\Estructuras compt\\codigos hasta ahora\\09_leds_sec-1\\Drivers\\Src\\stm32l4xx_my_rcc.c\"",
+  "file": "D:\\Users\\oedav\\Desktop\\septimo semestre\\Estructuras compt\\codigos hasta ahora\\09_leds_sec-1\\Drivers\\Src\\stm32l4xx_my_rcc.c",
+  "output": "CMakeFiles\\09_leds_sec-1.dir\\Drivers\\Src\\stm32l4xx_my_rcc.c.obj"
+},
+{
+  "directory": "D:/Users/oedav/Desktop/septimo semestre/Estructuras compt/codigos hasta ahora/09_leds_sec-1/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -I\"D:/Users/oedav/Desktop/septimo semestre/Estructuras compt/codigos hasta ahora/09_leds_sec-1/Core/Inc\" -I\"D:/Users/oedav/Desktop/septimo semestre/Estructuras compt/codigos hasta ahora/09_leds_sec-1/Drivers/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\09_leds_sec-1.dir\\Drivers\\Src\\stm32l4xx_my_systick.c.obj -c \"D:\\Users\\oedav\\Desktop\\septimo semestre\\Estructuras compt\\codigos hasta ahora\\09_leds_sec-1\\Drivers\\Src\\stm32l4xx_my_systick.c\"",
+  "file": "D:\\Users\\oedav\\Desktop\\septimo semestre\\Estructuras compt\\codigos hasta ahora\\09_leds_sec-1\\Drivers\\Src\\stm32l4xx_my_systick.c",
+  "output": "CMakeFiles\\09_leds_sec-1.dir\\Drivers\\Src\\stm32l4xx_my_systick.c.obj"
+},
+{
+  "directory": "D:/Users/oedav/Desktop/septimo semestre/Estructuras compt/codigos hasta ahora/09_leds_sec-1/build/debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.16.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -I\"D:/Users/oedav/Desktop/septimo semestre/Estructuras compt/codigos hasta ahora/09_leds_sec-1/Core/Inc\" -I\"D:/Users/oedav/Desktop/septimo semestre/Estructuras compt/codigos hasta ahora/09_leds_sec-1/Drivers/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -g -std=gnu11 -mthumb -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -Wextra -Wpedantic -Wno-unused-parameter -Og -g3 -ggdb -o CMakeFiles\\09_leds_sec-1.dir\\Drivers\\Src\\stm32l4xx_my_gpio.c.obj -c \"D:\\Users\\oedav\\Desktop\\septimo semestre\\Estructuras compt\\codigos hasta ahora\\09_leds_sec-1\\Drivers\\Src\\stm32l4xx_my_gpio.c\"",
+  "file": "D:\\Users\\oedav\\Desktop\\septimo semestre\\Estructuras compt\\codigos hasta ahora\\09_leds_sec-1\\Drivers\\Src\\stm32l4xx_my_gpio.c",
+  "output": "CMakeFiles\\09_leds_sec-1.dir\\Drivers\\Src\\stm32l4xx_my_gpio.c.obj"
+}
+]

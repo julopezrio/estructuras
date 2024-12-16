@@ -1,0 +1,3 @@
+D:/Users/oedav/Desktop/septimo semestre/Estructuras compt/codigos hasta ahora/09_leds_sec-1/CMakeFiles/09_leds_sec-1.dir
+D:/Users/oedav/Desktop/septimo semestre/Estructuras compt/codigos hasta ahora/09_leds_sec-1/CMakeFiles/edit_cache.dir
+D:/Users/oedav/Desktop/septimo semestre/Estructuras compt/codigos hasta ahora/09_leds_sec-1/CMakeFiles/rebuild_cache.dir
